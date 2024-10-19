@@ -1,15 +1,15 @@
 {
-    "name": "Kerm_Md-V2",
+    "name": "Queen_candy",
     "description": "Simple WhatsApp Bot🤖",
     "logo": "https://telegra.ph/file/dc5657036b53a3613d4f7.jpg",
-    "keywords": ["Kg Tech", "Kerm Md", "Kerm_Md-V2"],
+    "keywords": ["igwe tech", "candy Md", "Queen_candy"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Kg Tech",
+        "value": "igwe Tech",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg",
+        "value": "https://i.imgur.com/OMgJ3KP.jpeg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg"
+        "value": "https://i.imgur.com/OMgJ3KP.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
